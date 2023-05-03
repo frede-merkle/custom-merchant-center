@@ -13,7 +13,7 @@ const config = {
     },
     production: {
       applicationId: 'clh7ql3jv005wy001kl6vzdd9',
-      url: 'https://zealous-coast-088c61603.3.azurestaticapps.net',
+      url: 'https://wonderful-wave-0a6b18a03.3.azurestaticapps.net',
     },
   },
   oAuthScopes: {
