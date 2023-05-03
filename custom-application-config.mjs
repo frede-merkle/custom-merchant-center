@@ -4,7 +4,7 @@ import { PERMISSIONS, entryPointUriPath } from './src/constants';
  * @type {import('@commercetools-frontend/application-config').ConfigOptions}
  */
 const config = {
-  name: 'Starter Custom Mc',
+  name: 'Custom Merchant Center',
   entryPointUriPath,
   cloudIdentifier: 'gcp-eu',
   env: {
@@ -12,8 +12,8 @@ const config = {
       initialProjectKey: 'backend-team-001',
     },
     production: {
-      applicationId: 'TODO',
-      url: 'https://your_app_hostname.com',
+      applicationId: 'clh7ql3jv005wy001kl6vzdd9',
+      url: 'https://zealous-coast-088c61603.3.azurestaticapps.net',
     },
   },
   oAuthScopes: {
